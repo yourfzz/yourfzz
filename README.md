@@ -36,3 +36,13 @@ I am an enthusiastic and experienced junior Front-end developer with a strong fo
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31xwl6xjcsp22q6ydh6raxjnpedi&unique={true|1|on|yes})
 
 ###
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+</picture>
+
+###
