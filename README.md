@@ -33,7 +33,7 @@ I am an enthusiastic and experienced junior Front-end developer with a strong fo
 
 <br><br>
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31xwl6xjcsp22q6ydh6raxjnpedi&unique={true|1|on|yes})
+![Spotify recently played](https://spotify-recently-played.jeffreyca.workers.dev/svg?user=31xwl6xjcsp22q6ydh6raxjnpedi)
 
 ###
 
